@@ -1,6 +1,6 @@
 using UnityEngine;
 
-public class MissionThirdPersonCamera : MonoBehaviour
+public class ThirdPersonCamera : MonoBehaviour
 {
     #region ¿ŒΩ∫∆Â≈Õ
     [SerializeField] private Transform target;
